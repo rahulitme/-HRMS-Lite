@@ -6,4 +6,5 @@ pydantic
 pydantic-settings
 python-dotenv
 email-validator
+gunicorn
 email-validator

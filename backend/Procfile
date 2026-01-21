@@ -1,0 +1,4 @@
+web: gunicorn app.main:app
+workers: 1
+worker-class: uvicorn.workers.UvicornWorker
+worker-connections: 100
