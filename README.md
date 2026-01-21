@@ -2,7 +2,7 @@
 
 A lightweight, production-ready Human Resource Management System built with React, FastAPI, and MongoDB. Designed for admin users to manage employee records and track daily attendance.
 
-**Live Demo:** Coming soon (deployment in progress)  
+
 **GitHub:** https://github.com/rahulitme/-HRMS-Lite
 
 ## Features
@@ -40,7 +40,6 @@ A lightweight, production-ready Human Resource Management System built with Reac
 | Frontend | React 18, Vite, TypeScript, CSS3 |
 | Backend | FastAPI, Python 3.11+ |
 | Database | MongoDB Atlas (Cloud) |
-| Deployment | Docker, Docker Compose |
 
 ## Quick Start
 
@@ -261,24 +260,6 @@ taskkill /F /PID <PID>
 - [ ] Hash sensitive data
 - [ ] Use secrets management
 
-## License
 
-MIT License - See LICENSE file for details
+<img width="1811" height="866" alt="image" src="https://github.com/user-attachments/assets/6f5a256d-1105-4696-b166-15272ba3c620" />
 
-## Support
-
-For issues, questions, or feature requests, please open an issue on GitHub:  
-https://github.com/rahulitme/-HRMS-Lite/issues
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Push to the branch
-5. Create a Pull Request
-
----
-
-**Created:** January 2026  
-**Version:** 1.0.0
